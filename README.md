@@ -61,7 +61,8 @@ Shows how sales performance changes throughout the year.
 
 ## 🖼️ Power BI Dashboard
 
-![Superstore Sales Dashboard](powerbi-version/SuperstoreSalesReport.png)
+<img width="748" height="679" alt="image" src="https://github.com/user-attachments/assets/2729a6ac-4e5b-4b3c-bdfa-0168debc3237" />
+
 
 ---
 
