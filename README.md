@@ -133,8 +133,6 @@ This project demonstrates my ability to:
 
 ## 📂 Project Structure
 
-## 📂 Project Structure
-
 ```text
 Superstore-Sales-Dashboard/
 │
