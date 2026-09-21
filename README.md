@@ -133,6 +133,9 @@ This project demonstrates my ability to:
 
 ## 📂 Project Structure
 
+## 📂 Project Structure
+
+```text
 Superstore-Sales-Dashboard/
 │
 ├── powerbi-version/
@@ -147,7 +150,7 @@ Superstore-Sales-Dashboard/
 │
 ├── Sample - Superstore.xlsx
 └── README.md
----
+```
 
 ## 🚀 Conclusion
 
