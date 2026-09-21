@@ -135,14 +135,18 @@ This project demonstrates my ability to:
 
 Superstore-Sales-Dashboard/
 │
-├── python-version/
-│   └── Superstore Sales Dashboard .ipynb
+├── powerbi-version/
+│   ├── README.md
+│   ├── Superstore Sales Report.pbix
+│   └── Superstore Sales Report.png
 │
-├── dashboard.png
-├── dataset/
-├── Power BI dashboard file
+├── python-version/
+│   ├── README.md
+│   ├── Superstore Sales Dashboard.ipynb
+│   └── Superstore Sales Dashboard.html
+│
+├── Sample - Superstore.xlsx
 └── README.md
-
 ---
 
 ## 🚀 Conclusion
